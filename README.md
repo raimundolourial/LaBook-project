@@ -52,7 +52,7 @@ O **LaBook-Backend** é uma rede social com o objetivo de promover a conexão e 
 
 ### Pré-requisitos:
 
-Ter instalado o `node.js` e o `npm` .
+Ter instalado o `node.js` e o `npm` 
 
 ### Instalações necessárias:
 
